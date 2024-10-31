@@ -88,7 +88,7 @@ Reducer Processes Action: The corresponding reducer processes the action and upd
 Component Rerenders: Components subscribed to the Redux store re-render with the updated state.
 
 ### Contributors
-Contributions are welcome! Please follow these steps to c
+Contributions are welcome! 
 
 
 ### License
