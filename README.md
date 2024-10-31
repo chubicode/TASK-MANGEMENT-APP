@@ -1,6 +1,8 @@
 # TASK MANAGEMENT APP WITH REDUX
 ![todo-app-react-redux](/src/assets/github-cover.png)
 
+To view app go to link : https://taskmanagerappflexisaf.netlify.app
+
 
 ## Table of Contents
 - [Overview](#overview)
