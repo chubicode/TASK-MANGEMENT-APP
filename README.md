@@ -1,6 +1,6 @@
 # TASK MANAGEMENT APP WITH REDUX
 ![todo-app-react-redux](/src/assets/github-cover.png)
-# Task Management Application
+
 
 ## Table of Contents
 - [Overview](#overview)
